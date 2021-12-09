@@ -5,6 +5,8 @@
 owning-ref-rs
 ==============
 
+This is a fork integrating the upstream MR #68 which adds async support.
+
 A library for creating references that carry their owner with them.
 
 This can sometimes be useful because Rust borrowing rules normally prevent
