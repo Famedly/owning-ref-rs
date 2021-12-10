@@ -245,6 +245,8 @@ fn main() {
 
 extern crate stable_deref_trait;
 pub use stable_deref_trait::{StableDeref as StableAddress, CloneStableDeref as CloneStableAddress};
+#[cfg(feature = "async")]
+use std::future::Future;
 
 /// An owning reference.
 ///
