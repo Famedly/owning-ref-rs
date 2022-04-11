@@ -1,6 +1,6 @@
 [package]
-name = "owning_ref"
-version = "0.4.1"
+name = "owning_ref_lockable"
+version = "0.4.2"
 edition = "2018"
 authors = ["Marvin Löbel <loebel.marvin@gmail.com>"]
 license = "MIT"

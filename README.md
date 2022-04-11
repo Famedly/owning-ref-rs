@@ -2,6 +2,9 @@
 [![Crate](https://img.shields.io/crates/v/owning_ref.svg)](https://crates.io/crates/owning_ref)
 [![Docs](https://docs.rs/owning_ref/badge.svg)](https://docs.rs/owning_ref)
 
+
+This is a fork of https://github.com/Kimundi/owning-ref-rs with a couple of fixes needed for https://github.com/smessmer/lockable
+
 owning-ref-rs
 ==============
 
